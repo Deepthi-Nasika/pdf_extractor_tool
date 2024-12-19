@@ -1,6 +1,6 @@
 
-# Assignment 2
-## OpenAI Model Evaluation Tool with PDF Extraction
+# OpenAI Model Evaluation Tool with PDF Extraction
+## Overview
 An interactive application built using Streamlit to evaluate the performance of OpenAI GPT Model against the HuggingFace's GAIA(General AI Assistant) dataset. The application extracts content from the PDF files in the GAIA dataset, processes the information, and sends it to assess GPT's ability to provide accurate answers based on the given context of pdf file and annotation metadata (steps to get the correct answer)
 
 ## Live Application Link
